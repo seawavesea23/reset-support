@@ -1,6 +1,6 @@
 # RE:SET Support
 
-You started something most people never would — and we’re here if you need us.
+You started something most people never would. We’re here if you need us.
 
 This isn’t just an app. It’s a challenge to your habits, your hunger, your mind. If something isn’t working, we’ll help. If you’re unsure, we’ll clarify. But remember: discomfort doesn’t always mean danger.
 
@@ -12,7 +12,7 @@ This isn’t just an app. It’s a challenge to your habits, your hunger, your m
   Try restarting your device. It usually works — like a mental reset for your phone.
 
 - **The timer froze.**  
-  Force-quit and reopen the app. If that doesn't fix it, let us know.
+  Force quit and reopen the app. If that doesn't fix it, let us know.
 
 - **Where’s the refeed cinematic?**  
   It unlocks after 72 hours. Earn it.
