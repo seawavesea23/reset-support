@@ -26,7 +26,7 @@ We’ll read it. We might even reply.
 
 ---
 
-## App Version
+## App Version:
 
 - v1.0.0 — July 2025
 
